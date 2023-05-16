@@ -1,0 +1,9 @@
+Abstract class have only header but do implementation
+there are two types of method
+Concrete  method-method with header +defination
+Abstract method - method with only header but no defination
+in abstract class we can create both methods
+the sub class may write the abstract method it is not mandatory to write abstract method
+abstract class can not be private ,dinal , static 
+constructor cannot be abstract
+inheritance is mandatory for abstract class beacause implemention is writen is subclass
